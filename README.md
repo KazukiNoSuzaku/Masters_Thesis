@@ -1,5 +1,6 @@
 # Masters_Thesis
 **Prompt Optimization for generative art models**
+
 This paper discusses the optimization of prompts for
 generating AI art [1]. Popular AI models, such as stable diffusion
 and MidJourney, are explored by guiding image generation with
